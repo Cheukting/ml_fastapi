@@ -4,11 +4,11 @@ In this workshop, we will go deeper into how to prototype a machine-learning pro
 
 ## Prerequisite
 
-This workshop assume that you have experience code in Python and have knowledge using some of the data science and machine learning library such as [pandas](https://pandas.pydata.org/docs/index.html), [Scikit-learn](https://scikit-learn.org/stable/index.html) and [Keras](https://keras.io/). Details explaining usage of those libraries will be skip in this workshop
+This workshop assumes that you have experience code in Python and have knowledge using some of the data science and machine learning libraries such as [pandas](https://pandas.pydata.org/docs/index.html), [Scikit-learn](https://scikit-learn.org/stable/index.html) and [Keras](https://keras.io/). Details explaining the usage of those libraries will be skipped in this workshop
 
 ## Preflight check
 
-Please make sure you are using Python 3.12, this is the Python version that we will be using. You may try using other version of Python but we will not guarantee all exercises will work the same.
+Please make sure you are using Python 3.12, this is the Python version that we will be using. You may try using other versions of Python but we will not guarantee all exercises will work the same.
 
 If you want to complete part 3 of the workshop, you will need to be able to deploy [docker containers](https://www.docker.com/) locally.
 
@@ -16,7 +16,7 @@ If you want to complete part 3 of the workshop, you will need to be able to depl
 
 Requirements are in the file `requirements.txt` [here](requirements.txt), we recommend using [uv](https://github.com/astral-sh/uv) to create a new environment and install dependencies.
 
-We also recommend install [Docker Desktop](https://www.docker.com/products/docker-desktop/) for part 3 of the workshop.  
+We also recommend installing [Docker Desktop](https://www.docker.com/products/docker-desktop/) for part 3 of the workshop. 
 
 ---
 
