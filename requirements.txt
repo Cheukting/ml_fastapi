@@ -1,0 +1,5 @@
+fastapi[standard]==0.115.2
+scikit-learn==1.5.2
+tensorflow==2.17.0
+pandas==2.2.3
+pillow==11.0.0
